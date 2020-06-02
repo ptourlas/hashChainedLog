@@ -13,7 +13,7 @@ arr = []
 entry1 = {
         'date'  :'1/1/2020',
         'partID':'12938329',
-        'tested':'pass'
+        'tested':'fail'
         }
 
 arr.append(entry1)
